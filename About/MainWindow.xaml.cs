@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Wpf_Grandway_GUI 
+namespace About
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
